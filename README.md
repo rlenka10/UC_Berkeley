@@ -1,2 +1,2 @@
 # UC_Berkeley
-Projects done at UC Berkeley
+UC Berkeley CS Projects/Coursework
